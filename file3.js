@@ -14,13 +14,3 @@ for (let index = 0; index < idris.length; index++) {
     const element = idris[index];
     
 }
-aklsjd;fakjsdkfjas
-aalkds
-
-
-alksdjfkajs;dkfjaskljdlakjsd;fk
-a;lsdklflkasjdklfjasdf
-;laksdjf;kaljsdf
-a;lskdjf;klja
-
-alkalsjdf;alkjsd;fkja;sdfkj;aksldjf;alsjdf;asdf
